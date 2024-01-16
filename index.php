@@ -45,3 +45,36 @@ $example_persons_array = [
         'job' => 'babysitter',
     ],
 ];
+
+function getShortName($array){
+
+    return explode($array);
+
+}
+
+function getPartsFromFullname(){
+
+}
+
+function getFullnameFromParts(){
+
+}
+
+function getGenderFromName(){
+
+}
+
+function getGenderDescription() {
+
+}
+
+function getPerfectPartner(){
+
+}
+
+?>
+
+
+<div>
+
+</div>
